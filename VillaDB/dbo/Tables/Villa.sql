@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Villa]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [villa_name] NVARCHAR(50) NOT NULL
+)
